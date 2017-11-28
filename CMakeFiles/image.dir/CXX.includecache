@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/mw00899/project/rect.cpp
+opencv2/highgui/highgui.hpp
+/home/pi/mw00899/project/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/pi/mw00899/project/opencv2/imgproc/imgproc.hpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

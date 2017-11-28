@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/mw00899/project/cv.cpp
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+iostream
+-
+
